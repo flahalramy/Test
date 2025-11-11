@@ -71,6 +71,9 @@ body {
     left: 370px;
     top: -30px;
 }
+.box:hover {
+  transform: scale(1.2); /* يزيد حجم العنصر بنسبة 20% */
+}
 
 .r {
     background-color: #1faf92;
